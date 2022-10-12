@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: e4597d60efbb13447b46093f5cf04e50
+timeCreated: 1467391389
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BipMulher
+    100002: BipMulher Footsteps
+    100004: BipMulher Head
+    100006: BipMulher HeadNub
+    100008: BipMulher L Calf
+    100010: BipMulher L Clavicle
+    100012: BipMulher L Foot
+    100014: BipMulher L Forearm
+    100016: BipMulher L Hand
+    100018: BipMulher L Thigh
+    100020: BipMulher L Toe0
+    100022: BipMulher L Toe0Nub
+    100024: BipMulher L UpperArm
+    100026: BipMulher Neck
+    100028: BipMulher Pelvis
+    100030: BipMulher R Calf
+    100032: BipMulher R Clavicle
+    100034: BipMulher R Foot
+    100036: BipMulher R Forearm
+    100038: BipMulher R Hand
+    100040: BipMulher R Thigh
+    100042: BipMulher R Toe0
+    100044: BipMulher R Toe0Nub
+    100046: BipMulher R UpperArm
+    100048: BipMulher Spine
+    100050: BipMulher Spine1
+    100052: ModeloMulher
+    100054: //RootNode
+    400000: BipMulher
+    400002: BipMulher Footsteps
+    400004: BipMulher Head
+    400006: BipMulher HeadNub
+    400008: BipMulher L Calf
+    400010: BipMulher L Clavicle
+    400012: BipMulher L Foot
+    400014: BipMulher L Forearm
+    400016: BipMulher L Hand
+    400018: BipMulher L Thigh
+    400020: BipMulher L Toe0
+    400022: BipMulher L Toe0Nub
+    400024: BipMulher L UpperArm
+    400026: BipMulher Neck
+    400028: BipMulher Pelvis
+    400030: BipMulher R Calf
+    400032: BipMulher R Clavicle
+    400034: BipMulher R Foot
+    400036: BipMulher R Forearm
+    400038: BipMulher R Hand
+    400040: BipMulher R Thigh
+    400042: BipMulher R Toe0
+    400044: BipMulher R Toe0Nub
+    400046: BipMulher R UpperArm
+    400048: BipMulher Spine
+    400050: BipMulher Spine1
+    400052: ModeloMulher
+    400054: //RootNode
+    4300000: ModeloMulher
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ModeloMulher
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

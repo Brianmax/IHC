@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: caa34f66e9ebf9d43819c15e8d263797
+timeCreated: 1462385331
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: malua_lenk_rampa_suportes
+    100002: maria_lenk_Estrutura_01
+    100004: maria_lenk_Hidrometro
+    100006: maria_lenk_rampas
+    100008: //RootNode
+    100010: PlataformaBorracha
+    100012: PlataformaConcreto
+    100014: PlataformaCorrimao
+    400000: malua_lenk_rampa_suportes
+    400002: maria_lenk_Estrutura_01
+    400004: maria_lenk_Hidrometro
+    400006: maria_lenk_rampas
+    400008: //RootNode
+    400010: PlataformaBorracha
+    400012: PlataformaConcreto
+    400014: PlataformaCorrimao
+    2300000: malua_lenk_rampa_suportes
+    2300002: maria_lenk_Estrutura_01
+    2300004: maria_lenk_Hidrometro
+    2300006: maria_lenk_rampas
+    2300008: PlataformaBorracha
+    2300010: PlataformaConcreto
+    2300012: PlataformaCorrimao
+    3300000: malua_lenk_rampa_suportes
+    3300002: maria_lenk_Estrutura_01
+    3300004: maria_lenk_Hidrometro
+    3300006: maria_lenk_rampas
+    3300008: PlataformaBorracha
+    3300010: PlataformaConcreto
+    3300012: PlataformaCorrimao
+    4300000: PlataformaConcreto
+    4300002: maria_lenk_Estrutura_01
+    4300004: PlataformaCorrimao
+    4300006: maria_lenk_rampas
+    4300008: malua_lenk_rampa_suportes
+    4300010: maria_lenk_Hidrometro
+    4300012: PlataformaBorracha
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 99e35bb4325eca94591bde61c90de8c5
+timeCreated: 1465923315
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arquibancada
+    100002: Arquibancada01
+    100004: Arquibancada02
+    100006: Arquibancada03
+    100008: Arquibancada04
+    100010: Arquibancada05
+    100012: Arquibancada06
+    100014: Arquibancada07
+    100016: Arquibancada08
+    100018: Arquibancada09
+    100020: //RootNode
+    100022: ArquibancadaEscada01
+    100024: ArquibancadaEscada02
+    100026: ArquibancadaEscada03
+    100028: ArquibancadaEscada04
+    100030: ArquibancadaEscada05
+    100032: ArquibancadaEscada06
+    100034: ArquibancadaEscada07
+    100036: ArquibancadaEscada08
+    400000: Arquibancada
+    400002: Arquibancada01
+    400004: Arquibancada02
+    400006: Arquibancada03
+    400008: Arquibancada04
+    400010: Arquibancada05
+    400012: Arquibancada06
+    400014: Arquibancada07
+    400016: Arquibancada08
+    400018: Arquibancada09
+    400020: //RootNode
+    400022: ArquibancadaEscada01
+    400024: ArquibancadaEscada02
+    400026: ArquibancadaEscada03
+    400028: ArquibancadaEscada04
+    400030: ArquibancadaEscada05
+    400032: ArquibancadaEscada06
+    400034: ArquibancadaEscada07
+    400036: ArquibancadaEscada08
+    2300000: Arquibancada
+    2300002: Arquibancada01
+    2300004: Arquibancada02
+    2300006: Arquibancada03
+    2300008: Arquibancada04
+    2300010: Arquibancada05
+    2300012: Arquibancada06
+    2300014: Arquibancada07
+    2300016: Arquibancada08
+    2300018: Arquibancada09
+    2300020: ArquibancadaEscada01
+    2300022: ArquibancadaEscada02
+    2300024: ArquibancadaEscada03
+    2300026: ArquibancadaEscada04
+    2300028: ArquibancadaEscada05
+    2300030: ArquibancadaEscada06
+    2300032: ArquibancadaEscada07
+    2300034: ArquibancadaEscada08
+    3300000: Arquibancada
+    3300002: Arquibancada01
+    3300004: Arquibancada02
+    3300006: Arquibancada03
+    3300008: Arquibancada04
+    3300010: Arquibancada05
+    3300012: Arquibancada06
+    3300014: Arquibancada07
+    3300016: Arquibancada08
+    3300018: Arquibancada09
+    3300020: ArquibancadaEscada01
+    3300022: ArquibancadaEscada02
+    3300024: ArquibancadaEscada03
+    3300026: ArquibancadaEscada04
+    3300028: ArquibancadaEscada05
+    3300030: ArquibancadaEscada06
+    3300032: ArquibancadaEscada07
+    3300034: ArquibancadaEscada08
+    4300000: Arquibancada
+    4300002: ArquibancadaEscada08
+    4300004: Arquibancada01
+    4300006: Arquibancada02
+    4300008: Arquibancada03
+    4300010: Arquibancada04
+    4300012: Arquibancada05
+    4300014: Arquibancada06
+    4300016: Arquibancada07
+    4300018: Arquibancada08
+    4300020: Arquibancada09
+    4300022: ArquibancadaEscada01
+    4300024: ArquibancadaEscada02
+    4300026: ArquibancadaEscada03
+    4300028: ArquibancadaEscada04
+    4300030: ArquibancadaEscada05
+    4300032: ArquibancadaEscada06
+    4300034: ArquibancadaEscada07
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
